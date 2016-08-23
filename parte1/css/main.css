@@ -1,0 +1,22 @@
+body 	{
+	margin: 0;
+	padding: 0;
+}
+
+.box	{
+	height: 200px;
+	width: 200px;
+	position: static;
+}
+
+.one 	{
+	background-color: #ee3e64;
+}
+
+.two {
+	background-color: #44accf;
+}
+
+.three 	{
+	background-color: #b7d84b;
+}

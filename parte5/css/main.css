@@ -1,0 +1,36 @@
+body 	{
+	margin: 0;
+	padding: 0;
+}
+
+.box	{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+}
+
+.one 	{
+	background-color: #ee3e64;
+	left:0;
+	top:0;
+}
+
+.two {
+	background-color: #44accf;
+	right:0;
+	top:0;
+	
+}
+
+.three 	{
+	background-color: #b7d84b;
+	left:0;
+	bottom:0;
+
+}
+.four 	{
+	background-color: yellow;
+	right: 0;
+	bottom:0;
+	
+}
